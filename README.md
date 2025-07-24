@@ -72,15 +72,15 @@ ts开发者发的公告：
 
 这是ts安装包中的`assets/imgs/back.img`：
 
-![back100.png](https://raw.githubusercontent.com/AngelPwn/TrosSense/main/imgs/back100.png)
+![back100.png](https://raw.githubusercontent.com/ReallyErYZ/TrosSense/main/imgs/back100.png)
 
 这是ts作者[胎里素宝宝](https://space.bilibili.com/3546768430074157)发布在[哔哩哔哩上的视频](https://www.bilibili.com/video/BV1FfxeeQErV)截图：
 
-<img src="https://raw.githubusercontent.com/AngelPwn/TrosSense/main/imgs/video.png" title="" alt="video.png" width="243">
+<img src="https://raw.githubusercontent.com/ReallyErYZ/TrosSense/main/imgs/video.png" title="" alt="video.png" width="243">
 
 让我们把他们合在一起（视频截图透明度50%）：
 
-![back100_video50.png](https://raw.githubusercontent.com/AngelPwn/TrosSense/main/imgs/back100_video50.png)
+![back100_video50.png](https://raw.githubusercontent.com/ReallyErYZ/TrosSense/main/imgs/back100_video50.png)
 
 惊人的吻合呢，看来真的使用了大名鼎鼎的[PhotoShopUI](https://github.com/CodeRyn2019/PhotoShopUI)。
 
